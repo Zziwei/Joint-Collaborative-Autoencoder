@@ -1,3 +1,8 @@
+"""
+Ziwei Zhu
+Computer Science and Engineering Department, Texas A&M University
+zhuziwei@tamu.edu
+"""
 from data_preprocessor import *
 import tensorflow as tf
 import time

@@ -1,6 +1,10 @@
+"""
+Ziwei Zhu
+Computer Science and Engineering Department, Texas A&M University
+zhuziwei@tamu.edu
+"""
 import numpy as np
 import pandas as pd
-import utility
 
 
 class ml1m:
